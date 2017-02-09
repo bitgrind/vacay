@@ -13,3 +13,7 @@ body {}
 
 .panel {position:relative;text-align: center;}
 .panel img {width:80%;}
+
+.row ul li {text-align: left;list-style: none;}
+
+.cost {color:#5a5;font-size:24px;}
