@@ -1,0 +1,15 @@
+
+body {}
+
+
+.thai-boats {width:100%; position:absolute;top:0;left:0;z-index: -1;opacity:.5;}
+
+.jumbotron {margin-top:1%;}
+
+.container {border:1px solid #d0d0df;box-shadow:0px;margin-top:5%;background-color:rgba(255,255,255,.6);border-radius: 5px;}
+
+.well {text-align: center;}
+.well img {width:80%;}
+
+.panel {position:relative;text-align: center;}
+.panel img {width:80%;}
